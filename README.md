@@ -1,14 +1,26 @@
 # 2021-01-django-project
-장고로 만든 crud 프로젝트입니다.(2021년도 1학기 팀프로젝트)
+⚠️2021년도 1학기 팀프로젝트<br>
 
-◽️ 코로나시대 생필품을 편리하게 집에서 받아볼 수 있는 배달형 편의점 서비스를 구상했습니다.<br>
-◽️ 이 페이지의 사용자는 관리인으로 로그인해 배달형 편의점의 상품과 재고를 관리합니다.<br>
-◽️ 추가,수정,삭제 등 기본적인 crud 기능을 구현<br>
-◽️ 간단한 자바스크립트로 팝업창과 검색 기능을 추가<br>
+<br><br>
+## 소개
++ 코로나시대 생필품을 편리하게 집에서 받아볼 수 있는 배달형 편의점 서비스를 구상했습니다.<br>
++ 이 페이지의 사용자는 관리인으로 로그인해 배달형 편의점의 상품과 재고를 관리합니다.<br>
++ 추가,수정,삭제 등 기본적인 crud 기능을 구현<br>
++ 간단한 자바스크립트로 팝업창과 검색 기능을 추가<br><br>
 
 
+## 사용한 기술
++ Django(crud)
++ javascript<br><br>
 
-아래는 최종으로 제출한 레포트의 일부입니다.<br>
+
+## 담당 파트
++ 템플릿과 html
++ inevntory table & inventory crud
++ pop up & filtering (javascript)
+
+<br><br><br><br>
+### 아래는 최종으로 제출한 레포트의 일부입니다.<br>
 1.Verified users can check lists of orders and managers on the dashboard page. 
 User can update orders on the order list. User can also delete orders after receiving delete confirmation. 
 On the manager page, user can create Order and manage Products. User can create, update and delete products on this page. 
