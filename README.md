@@ -1,5 +1,6 @@
 # 2021-01-django-project
 ⚠️2021년도 1학기 팀프로젝트<br>
+![KakaoTalk_Photo_2021-09-14-11-56-27 001](https://user-images.githubusercontent.com/82802784/133187420-99bd078f-d7d9-471e-bbd5-7fcb2e364c9b.jpeg)
 
 <br><br>
 ## 소개
@@ -17,7 +18,13 @@
 ## 담당 파트
 + 템플릿과 html
 + inevntory table & inventory crud
+![KakaoTalk_Photo_2021-09-14-11-56-27 002](https://user-images.githubusercontent.com/82802784/133187469-f1fca908-0be6-4840-991b-0a0fc6633bf6.jpeg)
+![KakaoTalk_Photo_2021-09-14-11-56-27 003](https://user-images.githubusercontent.com/82802784/133187467-6a554af0-95cf-45f6-b2a3-8b6c29163a08.jpeg)
 + pop up & filtering (javascript)
+![KakaoTalk_Photo_2021-09-14-11-56-27 004](https://user-images.githubusercontent.com/82802784/133187462-20a2c9ca-97a1-4745-961c-31904088ab5b.jpeg)
+
+
+
 
 <br><br><br><br>
 ### 아래는 최종으로 제출한 레포트의 일부입니다.<br>
