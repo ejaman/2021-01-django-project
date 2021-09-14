@@ -23,6 +23,10 @@
 + pop up & filtering (javascript)
 ![KakaoTalk_Photo_2021-09-14-11-56-27 004](https://user-images.githubusercontent.com/82802784/133187462-20a2c9ca-97a1-4745-961c-31904088ab5b.jpeg)
 
+## 고칠점
++ style은 css파일로 만들어서 따로 정리하기
++ 기능 보완
+
 
 
 
